@@ -1,0 +1,25 @@
+{
+  "name": "discordmafiabot",
+  "version": "1.0.0",
+  "description": "Discord mafia bot that allows servers to play a text-based mafia game",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobMcCoy683/DiscordMafiaBot.git"
+  },
+  "author": "Jacob McCoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobMcCoy683/DiscordMafiaBot/issues"
+  },
+  "homepage": "https://github.com/JacobMcCoy683/DiscordMafiaBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.18.0",
+    "typescript": "^4.1.3"
+  }
+}
